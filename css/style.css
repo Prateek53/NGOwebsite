@@ -23,7 +23,7 @@ body {
 }
 
 p {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 26px;
 }
 
@@ -41,7 +41,7 @@ p {
   border-bottom: 3px solid var(--themeYellow);
   text-align: center;
   font-size: 2rem;
-  font-weight: 200;
+  font-weight: 400;
   margin: 0 auto 50px;
   position: relative;
   padding: 10px 0;
