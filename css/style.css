@@ -35,6 +35,9 @@ p {
   width: 1140px;
   margin: auto;
 }
+.container a button {
+  cursor: pointer;
+}
 
 .sectionTitle {
   width: 300px;
